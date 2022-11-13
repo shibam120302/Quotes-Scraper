@@ -1,5 +1,5 @@
 # Quotes-Scraper By - SHIBAM 💖
-![QuoS](https://i.imgur.com/Z8g6CD6.png)
+![QuoS](https://j.gifs.com/KBP13Z.gif)
 
 ## Introduction
 Web-scraping is an important technique, frequently employed in a lot of different contexts, especially data science and data mining. Python is largely considered the go-to language for web-scraping, the reason being the batteries-included nature of Python. With Python, you can create a simple scraping script in about 15 minutes and in under 100 lines of code. So regardless of usage, web-scraping is a skill that every Python programmer must have under his belt.
